@@ -1,0 +1,3 @@
+**/__pycache__
+**/*.pyc
+latent_diffusion.egg-info/*
